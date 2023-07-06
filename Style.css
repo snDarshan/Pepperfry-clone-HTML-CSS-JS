@@ -108,7 +108,8 @@ header {
 .title-price h3 {
     font-size: 1rem;
     font-weight: 600;
-    text-transform: uppercase;
+    text-transform: uppercase; 
+    
 }
 .shop-container {
     display: grid;
