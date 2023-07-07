@@ -320,18 +320,6 @@ body {
     font-size: 0.900rem;
     margin-bottom: 10px;
 }
-.socail{
-    display: flex;
-    align-items: center;
-}
-.social a{
-    font-size: 24px;
-    margin-right: 18px;
-    color: var(--text--color);
-}
-.social a:hover{
-    color: var(--main-color);
-}
 .footer-box h3{
     font-size: 30px;
     font-weight: 500;
